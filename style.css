@@ -1,9 +1,19 @@
 @import url("style/header.css");
+@import url("style/banner.css");
 
 :root{
-    --cor-de-fundo: #EBECEE;
-    --branco: #ffffff;
+--cor-de-fundo: #e2b6df;
+--branco: #ffffff;
+--laranja: #EB9B00;
+--preto: #000000;
+--azul-degrade: linear-gradient(97.54deg, #a1e2ac 35.49%, #b0f8a7 165.37%);
+--fonte-principal: "Poppins";
+--fonte-secundaria: "Josefin Sans";
 }
 body{
-    background-color: var(--cor-de-fundo);
+background-color: var(--cor-de-fundo);
+font-family: var(--fonte-principal);
+font-size: 16px;
+font-weight: 400;
+
 }
