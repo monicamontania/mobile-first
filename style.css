@@ -2,11 +2,11 @@
 @import url("style/banner.css");
 
 :root{
---cor-de-fundo: #e2b6df;
+--cor-de-fundo: #ffffff;
 --branco: #ffffff;
 --laranja: #EB9B00;
 --preto: #000000;
---azul-degrade: linear-gradient(97.54deg, #a1e2ac 35.49%, #b0f8a7 165.37%);
+--azul-degrade: linear-gradient(97.54deg, #000000 35.49%, #000000 165.37%);
 --fonte-principal: "Poppins";
 --fonte-secundaria: "Josefin Sans";
 }
